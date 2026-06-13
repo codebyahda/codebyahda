@@ -36,12 +36,3 @@ Currently focusing on:
 
 🎮 Riftborn Legacy
 
----
-
-## Connect
-
-LinkedIn:
-www.linkedin.com/in/muhammad-ahda-briliantama/
-
-Email:
-lapakonline867@gmail.com
