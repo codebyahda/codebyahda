@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ahda Briliantama 👋
 
-<!--
-**codebyahda/codebyahda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student at President University
 
-Here are some ideas to get you started:
+🔐 Cybersecurity & GRC Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI & Computer Vision Developer
+
+💻 Full-Stack Developer
+
+---
+
+## About Me
+
+Passionate about Cybersecurity, Artificial Intelligence, Risk Management, and Software Development.
+
+Currently focusing on:
+
+- Cybersecurity
+- Security Testing
+- Governance Risk & Compliance (GRC)
+- Artificial Intelligence
+- Full-Stack Development
+
+---
+
+## Featured Projects
+
+🛡️ Risk Shield System
+
+🤖 AI Face Attendance System
+
+🐾 AI Animal Detection System
+
+☕ Brew & Beans POS
+
+🎮 Riftborn Legacy
+
+---
+
+## Connect
+
+LinkedIn:
+www.linkedin.com/in/muhammad-ahda-briliantama/
+
+Email:
+lapakonline867@gmail.com
