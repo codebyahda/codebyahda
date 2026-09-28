@@ -1,128 +1,171 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Muhammad Ahda Briliantama — AI, Cybersecurity, and Full-Stack Developer" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Muhammad Ahda Briliantama — AI, Cybersecurity, Web3" width="100%" />
 
-<br />
+<br/><br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/codebyahda?style=for-the-badge&logo=github&label=Followers)](https://github.com/codebyahda?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=codebyahda&style=for-the-badge&color=4f8cff)](https://github.com/codebyahda)
-
-</div>
-
-## About Me
-
-I'm **Muhammad Ahda Briliantama**, an Information Technology student at **President University** who enjoys building practical software at the intersection of **Artificial Intelligence, Cybersecurity, and Full-Stack Development**.
-
-I like turning technical ideas into working systems — from machine-learning security tools and data applications to interactive web experiences.
-
-- 🤖 Building with **AI, Machine Learning, and Computer Vision**
-- 🔐 Exploring **Cybersecurity, Security Testing, and GRC**
-- 💻 Developing **full-stack and data-driven applications**
-- 🧠 Interested in systems that are **useful, secure, and measurable**
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Development & Data
-
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Streamlit](https://img.shields.io/badge/Streamlit-111827?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
-### Focus Areas
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7C3AED?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-2563EB?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0891B2?style=for-the-badge)
-![Full Stack](https://img.shields.io/badge/Full--Stack_Development-0F766E?style=for-the-badge)
+<a href="https://github.com/codebyahda?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+</a>
+<img src="https://img.shields.io/badge/OPEN_TO_BUILDING-111827?style=for-the-badge&logo=rocket&logoColor=22D3EE" alt="Open to building"/>
+<img src="https://komarev.com/ghpvc/?username=codebyahda&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-## Featured Projects
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="62%" valign="top">
 
-### 🛡️ [ML Anti-Phishing & Spam Filtering](https://github.com/codebyahda/ML-Powered-Anti-Phishing-and-Spam-Filtering)
+### 01 / WHO I AM
 
-A multi-layer email security system combining machine learning, anomaly detection, rule-based analysis, FastAPI services, a dashboard, and production-style email processing.
+I'm **Muhammad Ahda Briliantama**, an Information Technology student at **President University** focused on building practical technology across **AI, cybersecurity, software engineering, and emerging Web3 systems**.
 
-**Highlights:** ML · XGBoost · FastAPI · Security · Docker
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 [Amazon Stock Analysis](https://github.com/codebyahda/amazon-stock)
-
-A Streamlit-based statistics and probability project for exploring Amazon stock data, including descriptive statistics, distributions, visualization, and normality analysis.
-
-**Highlights:** Python · Pandas · Streamlit · Data Analysis
+I enjoy projects where different domains meet: intelligent automation, secure infrastructure, data-heavy applications, and products that turn complex systems into clean user experiences.
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="38%" valign="top">
 
-### 🌌 [Shadow Dark Byte](https://github.com/codebyahda/ShadowDarkByte)
+### CURRENT SIGNAL
 
-A cyber-themed personal landing page built with a dark visual system, interactive presentation, responsive layout, and modern web styling.
-
-**Highlights:** HTML · Tailwind CSS · JavaScript · UI
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [StreamFlix](https://github.com/codebyahda/oppa)
-
-A streaming-platform frontend concept featuring search, navigation, notifications, content sections, and responsive interface components.
-
-**Highlights:** HTML · CSS · JavaScript · Frontend
+```text
+ROLE      Student / Builder
+FOCUS     AI + Cyber + Web3
+MODE      Build → Test → Improve
+INTEREST  Intelligent Systems
+          Security Engineering
+          Blockchain & Crypto
+          Full-Stack Products
+```
 
 </td>
 </tr>
 </table>
 
-## GitHub Activity
+<br/>
+
+<img src="./assets/core-domains.svg" alt="Core domains: AI, Cybersecurity, Web3 and Full-Stack" width="100%" />
+
+<br/>
+
+## 02 / SELECTED WORK
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=codebyahda&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=22d3ee&text_color=cbd5e1" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyahda&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=cbd5e1" alt="Most used languages" />
+<a href="https://github.com/codebyahda/ML-Powered-Anti-Phishing-and-Spam-Filtering">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codebyahda&repo=ML-Powered-Anti-Phishing-and-Spam-Filtering&hide_border=true&bg_color=0B1220&title_color=A855F7&text_color=94A3B8&icon_color=22D3EE" alt="ML Anti-Phishing project"/>
+</a>
+<a href="https://github.com/codebyahda/amazon-stock">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codebyahda&repo=amazon-stock&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=F59E0B" alt="Amazon Stock project"/>
+</a>
 
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyahda&hide_border=true&background=0D1117&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub streak" />
+<a href="https://github.com/codebyahda/ShadowDarkByte">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codebyahda&repo=ShadowDarkByte&hide_border=true&bg_color=0B1220&title_color=A855F7&text_color=94A3B8&icon_color=22D3EE" alt="Shadow Dark Byte project"/>
+</a>
+<a href="https://github.com/codebyahda/oppa">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=codebyahda&repo=oppa&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&icon_color=F59E0B" alt="StreamFlix project"/>
+</a>
 
 </div>
 
-## What I'm Exploring
+### Security × Machine Learning
 
-```text
-AI / ML          → intelligent and practical automation
-Cybersecurity    → secure systems, testing, and risk awareness
-Full-Stack       → clean products from interface to backend
-Data             → transforming raw information into useful insight
-```
+The **ML Anti-Phishing & Spam Filtering** project is one of my strongest examples of combining software engineering and cybersecurity: machine-learning classification, anomaly detection, API services, dashboard workflows, and containerized infrastructure.
 
----
+### Data × Product
+
+The **Amazon Stock Analysis** project explores statistical analysis and visualization through a Streamlit interface, while projects such as **Shadow Dark Byte** and **StreamFlix** reflect my interest in frontend experience and digital product design.
+
+<br/>
+
+## 03 / WEB3 & CRYPTO
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⛓️ Blockchain Systems
+
+Learning how decentralized systems structure trust, ownership, transactions, and programmable digital infrastructure.
+
+</td>
+<td width="33%" valign="top">
+
+### ₿ Crypto Markets
+
+Interested in crypto-market data, event-driven systems, automation, execution logic, and risk-aware trading infrastructure.
+
+</td>
+<td width="33%" valign="top">
+
+### ◈ AI × Web3
+
+Exploring where AI agents, market intelligence, automation, and decentralized technology can work together.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-### Build. Secure. Learn. Improve.
+<img src="https://img.shields.io/badge/Bitcoin-0B1220?style=for-the-badge&logo=bitcoin&logoColor=F7931A" alt="Bitcoin"/>
+<img src="https://img.shields.io/badge/Ethereum-0B1220?style=for-the-badge&logo=ethereum&logoColor=8B9EFF" alt="Ethereum"/>
+<img src="https://img.shields.io/badge/Blockchain-0B1220?style=for-the-badge&logo=blockchaindotcom&logoColor=22D3EE" alt="Blockchain"/>
+<img src="https://img.shields.io/badge/Web3-0B1220?style=for-the-badge&logo=web3dotjs&logoColor=A855F7" alt="Web3"/>
+<img src="https://img.shields.io/badge/Crypto_Markets-0B1220?style=for-the-badge&logo=coinmarketcap&logoColor=F59E0B" alt="Crypto markets"/>
 
-Thanks for visiting my profile.
+</div>
 
-[![GitHub](https://img.shields.io/badge/Explore_My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codebyahda?tab=repositories)
+<br/>
+
+## 04 / TOOLBOX
+
+<div align="center">
+
+**Build**
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,docker,git,github&theme=dark" alt="Development technologies"/>
+
+<br/><br/>
+
+**Data & AI**
+
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=E70488" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Streamlit-111827?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Computer_Vision-111827?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="Computer Vision"/>
+
+<br/><br/>
+
+**Security & Systems**
+
+<img src="https://img.shields.io/badge/Security_Testing-111827?style=flat-square&logo=kalilinux&logoColor=557C94" alt="Security Testing"/>
+<img src="https://img.shields.io/badge/GRC-111827?style=flat-square&logo=shield&logoColor=22D3EE" alt="GRC"/>
+<img src="https://img.shields.io/badge/API_Engineering-111827?style=flat-square&logo=fastapi&logoColor=009688" alt="API Engineering"/>
+<img src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624" alt="Linux"/>
+
+</div>
+
+<br/>
+
+## 05 / GITHUB SIGNAL
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codebyahda&show_icons=true&hide_border=true&bg_color=0B1220&title_color=A855F7&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyahda&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+`AI` · `CYBERSECURITY` · `WEB3` · `BLOCKCHAIN` · `CRYPTO` · `FULL-STACK`
+
+### Build systems that are intelligent, secure, and ready for what comes next.
+
+<sub>codebyahda // learning in public, shipping one system at a time</sub>
 
 </div>
